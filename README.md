@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant006&label=Profile%20views&color=0e75b6&style=flat" alt="sushant006" /> </p>
-
 - 🌱 I’m currently learning **React js, Node js**
 
 - 👨‍💻 All of my projects are available at [https://dashing-kulfi-dedbcd.netlify.app/](https://dashing-kulfi-dedbcd.netlify.app/)
@@ -13,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushant08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushant08/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/12017499_sushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/12017499_sushant" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sushant_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sushant_007/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sushant08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant08" height="30" width="40" /></a>
+<a href="https://instagram.com/pathaksushant007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathaksushant007" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/12017499_sushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="12017499_sushant" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sushant_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sushant_007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sushantpathak98189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sushantpathak98189" height="30" width="40" /></a>
 </p>
 

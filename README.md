@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React js, Node js**
+- 🌱 I’m currently learning **React js, Django**
 
 - 👨‍💻 All of my projects are available at [https://dashing-kulfi-dedbcd.netlify.app/](https://dashing-kulfi-dedbcd.netlify.app/)
 

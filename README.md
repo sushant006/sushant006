@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **people are happy when they are with me**
 
-- 📖 my articles are available at [sushant007.hashnode.dev]
+- 📖 my articles are available at **sushant007.hashnode.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
